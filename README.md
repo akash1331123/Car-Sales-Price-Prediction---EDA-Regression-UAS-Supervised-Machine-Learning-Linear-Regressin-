@@ -1,1 +1,5 @@
 # Car-Sales-Price-Prediction---EDA-Regression-UAS-Supervised-Machine-Learning-Linear-Regressin-
+The analysis of the automotive dataset uncovered significant findings, including diverse skewness patterns reflecting varied price ranges, a positive correlation between car price and the dependent variable, and a negative correlation with fuel efficiency. Dodge and Ford emerged as leading manufacturers, while the Mercedes-B CL500 stood out as the most expensive car. Porsche commanded the highest average price among manufacturers, and cars were the predominant vehicle type. Viper cars by Dodge boasted the largest engine size and highest horsepower, while a scatter plot revealed an inverse relationship between engine size and fuel efficiency. Finally, the Grid Search CV Lasso regression model demonstrated exceptional predictive performance, affirming its utility in automotive market analysis
+•	Data Exploration and Cleaning using Pandas 
+•	Effective Visualization with Matplotlib and Seaborn 
+•	Data visualization with Power BI
